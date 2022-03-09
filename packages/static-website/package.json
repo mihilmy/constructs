@@ -1,6 +1,6 @@
 {
   "name": "@mihilmy/cdk-static-website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Defines a static website CDK construct",
   "main": "construct.js",
   "license": "MIT",
