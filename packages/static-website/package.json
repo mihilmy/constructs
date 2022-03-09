@@ -1,0 +1,17 @@
+{
+  "name": "@mihilmy/cdk-static-website",
+  "version": "1.0.0",
+  "description": "Defines a static website CDK construct",
+  "main": "construct.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "aws-cdk-lib": "2.x",
+    "constructs": "10.x"
+  }
+}
